@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, CTFs, and Pentesting
 - 🌱 I’m currently learning Penetration Testing
 - 💞️ I’m looking to collaborate on python scripting and privilege escalation documentation.
-- 📫 How to reach me: regent8SH@gmail.com
+- 📫 How to reach me: Regent8SH@gmail.com
 
 <!---
 RegentateSH/RegentateSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
