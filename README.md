@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Regent8SH
 - 👀 I’m interested in Cybersecurity, CTFs, and Pentesting
 - 🌱 I’m currently learning Penetration Testing
-- 💞️ I’m looking to collaborate on python scripting and privilege escalation documentation.
+- 💞️ I’m looking to collaborate on CTF writeups, python scripting and privilege escalation documentation.
 - 📫 How to reach me: Regent8SH@gmail.com
 
 <!---
