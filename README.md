@@ -6,6 +6,7 @@
 - Volunteer Event Coordinator with Hack Space Con and Hack Red Con 2023-2025
 
 View my TryHackMe profile @ https://tryhackme.com/p/regentateSH
+
 View my LinkedIn profile @ https://www.linkedin.com/in/regent8sh/
 
 <!---
